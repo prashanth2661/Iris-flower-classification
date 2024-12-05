@@ -1,7 +1,5 @@
 # Iris-flower-classification
 
-This project aims to classify Iris flowers into three species: setosa, versicolor, and virginica, based on their sepal and petal measurements. The dataset used is the famous Iris dataset, which is widely used for introductory classification tasks in machine learning.
-
 **Introduction**
 
 The Iris flower dataset consists of measurements of sepal length, sepal width, petal length, and petal width for 150 Iris flowers. The goal is to train a machine learning model that can accurately classify the species of Iris flowers based on these measurements.
